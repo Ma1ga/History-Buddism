@@ -1,0 +1,63 @@
+h1,
+h2{
+font-size: 30px;
+color: #fff;
+text-align: center;
+}
+.main {
+    
+
+    background: url(https://pravlife.org/sites/default/files/field/image/buddizm-840x560.jpg) no-repeat;
+    width: fit-content;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    font-size: 20px;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    height: 100;
+}
+
+.text-main p {
+    color: #fff;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text-facts p {
+    font-family: "Merriweather", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.facts {
+    padding: 100px;
+    background: url(https://historian.in.ua/wp-content/uploads/2023/02/Buddhism.jpeg.webp) no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 100vh;
+    background-attachment: fixed;
+    font-size: 30px;
+
+}
+
+.history {
+    background: url(https://assets.discours.io/unsafe/1024x/production/image/b1c5ba20-231d-11e9-877d-bdecae19bca3.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.text-history {
+    color: #fff;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+}
